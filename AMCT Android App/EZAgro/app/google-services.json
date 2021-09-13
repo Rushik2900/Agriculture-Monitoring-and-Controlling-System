@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476465279086",
+    "project_id": "ezagro-3669a",
+    "storage_bucket": "ezagro-3669a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476465279086:android:30a982f2f7553297f1367f",
+        "android_client_info": {
+          "package_name": "com.agriculture.ezagro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476465279086-t83e78aj5f6p3ggt4kr72cf7mf0tk2b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_I9X1A3QEnqr8jQqllg9Z6SllkrVlPgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476465279086-t83e78aj5f6p3ggt4kr72cf7mf0tk2b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
